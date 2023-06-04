@@ -1,6 +1,5 @@
 {
   "engines": { "node": "14.x" },
-  "homepage": "."
   "type": "module",
   "homepage": "/Foodie",
   "name": "my-app",
