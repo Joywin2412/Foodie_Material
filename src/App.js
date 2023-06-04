@@ -5,6 +5,7 @@ import Home from "./pages/home.js";
 import Dish from "./pages/dish.js";
 // require("dotenv").config();
 function App() {
+  console.log("hello");
   return (
     <div className="App">
       <Routes>
